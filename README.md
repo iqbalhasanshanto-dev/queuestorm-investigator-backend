@@ -18,3 +18,8 @@ This service exposes a high-performance API endpoint to analyze incoming custome
 ## 📥 API Endpoint
 ### `POST /analyze-ticket`
 Accepts customer complaint payloads along with transaction histories, validating and rendering detailed internal analysis alongside user-facing communications.
+
+## Live Deployment
+The backend API is successfully deployed and running live on Render:
+- **Base URL:** [https://queuestorm-investigator-backend.onrender.com](https://queuestorm-investigator-backend.onrender.com)
+- **API Documentation:** [https://queuestorm-investigator-backend.onrender.com/docs](https://queuestorm-investigator-backend.onrender.com/docs)
